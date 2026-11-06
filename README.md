@@ -1,8 +1,5 @@
 # LS-DYNA Tutorial: Static and Dynamic Axial Tube Crush
 
-[![LS-DYNA](https://img.shields.io/badge/LS--DYNA-Explicit%2FImplicit-blue)](https://www.ansys.com/products/structures/ansys-ls-dyna)
-[![Domain](https://img.shields.io/badge/Domain-Finite%20Element%20Analysis-orange)](https://en.wikipedia.org/wiki/Finite_element_method)
-[![Video Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red)](https://www.youtube.com/watch?v=3lqeqYbAzoo)
 
 This repository contains the setup files, keyword definitions, and documentation for performing numerical simulations of **Static and Dynamic Axial Tube Crushing** using **LS-DYNA**. 
 
